@@ -54,6 +54,7 @@ public class Horses2012 {
 		assertEquals(horseBarn.getSpaces()[1].getName(), "Silver");
 		// 10. write asserts that verify that the barn was consolidated (see page 16)
 	}
+	//hey
 	
 	
 
